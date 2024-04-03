@@ -3,9 +3,13 @@
 hello my name is sanyam
 hello my name is sanyam
 hello my name is sanyam
+<<<<<<< HEAD
 hello my name is sanyamhello my name is sanyam
 hello my name is sanyam
 =======
 # exo-9-sam hi my name is sanyam
 hllo 
 >>>>>>> e2a31d6953d96284f894fac46e1fbc5d22c83104
+=======
+hello my name is sanyam
+>>>>>>> parent of f3aca2c (update README.md 04)
